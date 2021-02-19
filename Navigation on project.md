@@ -1,1 +1,1 @@
-[Пример](https://pbs.twimg.com/profile_images/542953041729576960/zrklnY9n.png)
+![Пример](https://pbs.twimg.com/profile_images/542953041729576960/zrklnY9n.png)
