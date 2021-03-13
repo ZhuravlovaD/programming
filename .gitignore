@@ -5,7 +5,7 @@
 *.ipr
 /Papka
 
-# C++ objects and libs
+# C+++ objects and libs
 *.slo
 *.lo
 *.o
